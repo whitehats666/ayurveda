@@ -1,6 +1,6 @@
-# Shifa Maternell
+# Shifa Maternelle
 
-A green-themed website for Shifa Maternell near KIMS Al Shifa Hospital in Perinthalmanna, Kerala, with direct WhatsApp contact.
+A green-themed website for Shifa Maternelle near KIMS Al Shifa Hospital in Perinthalmanna, Kerala, with direct WhatsApp contact.
 
 ## Local preview
 
