@@ -16,6 +16,6 @@ Run `npm run build`. Vite writes the deployable site to `dist`.
 
 The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys the site to GitHub Pages whenever changes are pushed to `main`. After the first successful deployment, the site is available at:
 
-`https://<your-github-username>.github.io/ananda-nilayam/`
+`https://whitehats666.github.io/ayurveda/`
 
 In the repository's **Settings → Pages**, select **GitHub Actions** as the build and deployment source if it is not selected automatically.
