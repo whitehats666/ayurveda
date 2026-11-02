@@ -1,6 +1,6 @@
-# Ananda Nilayam
+# Shifa Maternell
 
-A responsive Ayurveda hospital and wellness-resort website built as a static page with Vite.
+A green-themed website for Shifa Maternell near KIMS Al Shifa Hospital in Perinthalmanna, Kerala, with direct WhatsApp contact.
 
 ## Local preview
 
@@ -19,3 +19,5 @@ The GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys
 `https://whitehats666.github.io/ayurveda/`
 
 In the repository's **Settings → Pages**, select **GitHub Actions** as the build and deployment source if it is not selected automatically.
+
+The existing Ayurveda treatments, accommodation, and sample doctor profiles are inherited demonstration content. Replace them with verified clinic information before relying on those sections.
